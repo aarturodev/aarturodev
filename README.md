@@ -1,7 +1,5 @@
 <div align="center">
 
-# Anderson Marin
-
 ### Backend Developer | Java & Spring Boot
 
 Building modern backend systems with clean architecture, scalable APIs and AI-powered solutions.
