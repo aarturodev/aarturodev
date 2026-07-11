@@ -1,8 +1,9 @@
 <div align="center">
+  
+### Anderson Marin
+#### Backend Developer | Java & Spring Boot
 
-### Backend Developer | Java & Spring Boot
 
-Building modern backend systems with clean architecture, scalable APIs and AI-powered solutions.
 
 🇨🇴 Bogotá, Colombia • Available for Remote & On-site Opportunities
 
@@ -18,10 +19,6 @@ Building modern backend systems with clean architecture, scalable APIs and AI-po
 
 <a href="https://andersoon.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://andersoon.vercel.app/pdf/cv.pdf">
-  <img src="https://img.shields.io/badge/Resume-2F80ED?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
 <br><br>
