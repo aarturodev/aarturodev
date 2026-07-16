@@ -2,7 +2,7 @@
   
 # Hey, I'm Anderson 👋
 
-### Backend Engineer | Java • Spring Boot • Node.js • REST APIs
+### Software Engineer | Java • Spring Boot • Node.js • REST APIs
 
 🇨🇴 Bogotá, Colombia • Open to Remote & On-site Opportunities
 
