@@ -1,11 +1,12 @@
 <div align="center">
   
-### ¡Hey 👋! Soy Anderson 👨🏻‍💻
-#### Backend Engineer | Java & Spring Boot
+# Hey, I'm Anderson 👋
 
+### Backend Engineer | Java • Spring Boot • Node.js • REST APIs
 
+🇨🇴 Bogotá, Colombia • Open to Remote & On-site Opportunities
 
-🇨🇴 Bogotá, Colombia • Available for Remote & On-site Opportunities
+Building scalable backend applications, REST APIs, and modern full-stack solutions with Java, Spring Boot, Node.js, Angular, PostgreSQL, Docker, and AI integrations.
 
 <br>
 
@@ -17,24 +18,34 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://andersoon.vercel.app">
+<a href="https://andersoon.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br><br>
-
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="44" alt="Java"/>
+  <img src="https://svgl.app/library/java.svg" height="44" alt="Java"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="44" alt="Spring Boot"/>
+  <img src="https://svgl.app/library/spring.svg" height="44" alt="Spring Boot"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="44" alt="Angular"/>
+  <img src="https://svgl.app/library/nodejs.svg" height="44" alt="Node.js"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="44" alt="PostgreSQL"/>
+  <img src="https://svgl.app/library/typescript.svg" height="44" alt="TypeScript"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="44" alt="Docker"/>
+  <img src="https://svgl.app/library/angular.svg" height="44" alt="Angular"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" height="44" alt="Git"/>
+  <img src="https://svgl.app/library/postgresql.svg" height="44" alt="PostgreSQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://svgl.app/library/redis.svg" height="44" alt="Redis"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/rabbitmq/rabbitmq-website/main/static/img/rabbitmq-logo.svg" height="44" alt="RabbitMQ"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://svgl.app/library/docker.svg" height="44" alt="Docker"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://svgl.app/library/git.svg" height="44" alt="Git"/>
+ 
 </p>
+
+
 
 </div>
